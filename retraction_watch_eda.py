@@ -706,8 +706,8 @@ def run_retraction_watch_eda():
             )
 
     legend_handles = [
-        mpatches.Patch(facecolor=COLOR_BD, label="Bangladesh Rank # 24 (Target Country: 16.51 / 10k)"),
-        mpatches.Patch(facecolor=COLOR_CHINA, label="China Rank # 17 (High Output / High Rate: 38.86 / 10k)"),
+        mpatches.Patch(facecolor=COLOR_BD, label="Bangladesh Rank # 24 (Target Country: 23.4 / 10k)"),
+        mpatches.Patch(facecolor=COLOR_CHINA, label="China Rank # 17 (High Output / High Rate: 28.8 / 10k)"),
         mpatches.Patch(facecolor=COLOR_ALERT, label="Other Top Retraction Rate Nations"),
     ]
     axes[1].legend(handles=legend_handles, loc="upper right", fontsize=10.5, frameon=True, facecolor="white", framealpha=0.9)
