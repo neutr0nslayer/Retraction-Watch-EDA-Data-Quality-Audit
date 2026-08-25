@@ -1,0 +1,5 @@
+Remediation Step,Count
+Initial Raw Records,71641
+Full Row Duplicates Dropped,240
+Missing Primary Key Records Dropped,1
+Final Clean Dataset Records,71400
